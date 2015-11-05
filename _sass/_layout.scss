@@ -253,3 +253,15 @@
 .home {
     text-align: center;
 }
+
+.status {
+    h2 {
+        display: inline-block;
+        margin-left: 1em;
+    }
+    .post-list {
+        li {
+            margin-bottom: 0.25em;
+        }
+    }
+}
