@@ -1,8 +1,7 @@
 # Site settings
-title: Lane IT on Github
+title: Lane Community College on Github
 email: webmaster@lanecc.edu
-description: > 
-  The homepage of open source projects at Lane Community College in Eugene, Oregon.
+description: The homepage of open source projects at Lane Community College in Eugene, Oregon.
 baseurl: ""
 url: "http://lanecommunitycollege.github.io"
 twitter_username: lanetitans
